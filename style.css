@@ -8,7 +8,7 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-/* Navbar */
+
 header {
   position: sticky;
   top: 0;
@@ -37,7 +37,7 @@ nav a {
   text-decoration: none;
 }
 
-/* Hero */
+
 .hero {
   height: 90vh;
   display: flex;
@@ -70,7 +70,7 @@ nav a {
   transform: translateY(-3px);
 }
 
-/* Features */
+
 .features {
   padding: 60px 20px;
   text-align: center;
@@ -96,20 +96,20 @@ nav a {
   transform: scale(1.05);
 }
 
-/* About */
+
 .about {
   padding: 60px 20px;
   text-align: center;
   background: #e2e8f0;
 }
 
-/* Contact */
+
 .contact {
   padding: 60px 20px;
   text-align: center;
 }
 
-/* Footer */
+
 footer {
   background: #0f172a;
   color: white;
